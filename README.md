@@ -1,4 +1,4 @@
-# Semantic-Based-Product-Recommendations-with-Vector-Databases-and-Large-Language-Models
+# AI-Driven Fashion Recommendation System Using Large Language Models and Similarity Search
 
 This project is an AI-driven fashion product recommendation system that leverages large language models (LLMs) and similarity search techniques to provide tailored product suggestions. It uses a fashion dataset to retrieve product descriptions, indexes them using FAISS for efficient retrieval, and uses the **google/flan-t5-large** LLM to generate the most relevant product recommendations based on user queries.
 
